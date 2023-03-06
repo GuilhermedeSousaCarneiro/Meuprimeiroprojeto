@@ -1,0 +1,280 @@
+#kakuzu{font-size: 2vw;
+
+    font-family: "Montserrat";
+    font-weight: 700;
+    margin-bottom: 30px;
+    line-height: 1;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    color: white;
+    padding: 0%;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    /*text-align: center;*/
+    transform: translate(-50%,-30%);}
+
+    .header{width: 100vw;
+    height: 8vw;
+    background-color: black;
+    position: relative;
+    margin: auto;}
+
+.escritorio{width:100vw;
+padding: 0px;
+position: absolute;
+left:0%;
+}
+
+body{overflow-x: hidden;
+background-color: black;
+}
+
+#fundo1{width:100vw;
+background-color: black;
+height: 1600px;
+padding: none;}
+
+#serviço1{color: white;
+font-weight: 100;
+font-family: "Montserrat";
+position: absolute;
+top: 190%;
+left: 20%;
+font-size: 2vw ;}
+
+#serviços2{font-family: "Montserrat";
+color: white;
+font-weight: 100;
+position: absolute;
+top: 160%;
+left: 50%;
+font-size: 3vw ;
+transform: translate(-50%,-50%)}
+
+#site{position: absolute;
+top: 180%;
+left: 55%;
+width: 30vw;
+height: 23vw;}
+
+#serviços3{color: white;
+position: absolute; 
+top: 180%;
+left:20% ;
+font-family: "Montserrat";
+font-size: 2vw;}
+
+#impostoderenda{font-family: "Montserrat";
+color: white;
+position: absolute;
+top: 260%;
+left: 55%;
+font-size: 2vw;}
+
+#impostoderendaimagem{position: absolute;
+top: 260%;
+left: 15%;
+height: 23vw ;
+width: 23vw;}
+
+#impostoderendatexto{color: white;
+position: absolute;
+top: 270%;
+font-family: "Montserrat";
+font-size: 2vw;
+left: 55%;
+font-weight: 100;}
+
+#assessoria{color: white;
+position: absolute;
+top: 330%;
+left: 55%;
+font-size: 2vw;}
+
+#fiscal{color: white;
+font-family: "Montserrat";
+font-size: 2vw;
+position: absolute;
+top: 340%;
+left: 55%;
+font-weight: 100;}
+
+#man-gf28952bcf_1920{position: absolute;
+top: 335%;
+left: 15%;
+width: 30vw;
+height: 27vw;}
+
+
+
+#instagram{color: black;
+position: absolute;
+top:440%;
+left: 45%;
+font-size: 2vw;
+text-decoration:none;
+text-decoration: black;}
+
+#contato{color: black;
+position: absolute;
+top:425%;
+left: 45%;
+font-size: 2vw;
+}
+
+#fundo2{width:100vw;
+    height: 20vw;
+    padding: 0;
+    position: absolute;
+    top: 415%;
+    left: 0px;
+    background-color: white;
+    margin: auto; }
+
+#instagramcontato{height: 3vw;
+width: 3vw;
+position: absolute;
+top:439%;
+left: 41%;}
+
+#fundodosite{width: 100vw ;
+padding: 10px;
+height: 2vw;
+background-color: black;
+position: absolute;
+top: 450%;
+left: 0px;
+margin: auto;
+color: white;
+font-family: "Montserrat";
+font-size: 2vw;
+text-align: center;
+text-transform:none;
+}
+
+#EMAIL3{font-size: 2vw;
+position: absolute;
+top: 100%;
+left: 30px;
+white-space: nowrap;}
+#enviar{position:absolute;
+left: 163px;
+top: 70px;}
+#email{position: absolute;
+top: 70px;
+left: -15px;}
+
+#formulario1{position: absolute;
+    top: 420%;
+    left: 43%;
+    border-radius:100%;}
+ @media screen and (max-width: 500px) {
+    #kakuzu{font-size: 13px;
+
+        font-family: "Montserrat";
+        font-weight: 700;
+        margin-bottom: 30px;
+        line-height: 1;
+        letter-spacing: -1px;
+        text-transform: uppercase;
+        color: white;
+        padding: 0%;
+        position: absolute;
+        top: 20%;
+        left: 50%;
+        /*text-align: center;*/
+        transform: translate(-50%,-50%);
+        }
+        #serviços2{
+        position: absolute;
+        top: 70%;
+        font-size: 6vw;}
+        #serviços3{position: absolute;
+        top: 80%;
+        font-size:6vw;
+        }
+        #site{position: absolute;
+        top:80%;
+        left: 0%;
+        width:104vw;
+        height: 100vw;
+        padding:0;
+        }
+        .escritorio{width:104vw;
+        padding: 0px;
+        position: absolute;
+        left:0%;
+        }
+        #serviço1{position: absolute;
+        top: 160%;
+        left: 15%;
+        font-size:6vw;
+        
+    }
+            #impostoderenda{
+                position: absolute;
+                top:300%;
+                font-size: 8vw;
+                letter-spacing: -2px;
+                left: 20%;
+            }
+            #impostoderendaimagem{
+                position: absolute;
+                top:230%;
+                left: 15%; 
+                width:75%;
+                height:50%;
+            }
+            #impostoderendatexto{
+                font-size:6vw;
+                position: absolute;
+                top:310%;
+                left:15%;
+                font-size:5vw;
+            }
+            #assessoria{
+                position: absolute;
+                top:400%;
+                left:15%;
+                font-size: 10vw;
+                }
+            #fiscal{
+                position: absolute;
+                top:415%;
+                left: 15%;
+                color: white;
+                font-size:6vw;
+                letter-spacing: -1px;
+            }
+            #man-gf28952bcf_1920{
+                position: absolute;
+                top:350%;
+                left:0;
+                width:105%;
+                height:50% 
+            }
+            #fundodosite{position: absolute;
+                top:500%;
+                padding: 30px;
+                font-size: 100%;
+                left:-7%;
+            }   
+            #EMAIL3{position: absolute;
+                top: 390px;
+                font-size: 15px;
+                left: 0px;
+            }
+            #email{position: absolute;
+            top:430px;
+            left: -70px;}
+            #enviar{position: absolute;
+            top: 430px;
+            left: 71px;}
+            #fundo2{position: absolute;
+            top:480%;
+            }
+            /*#instagramcontato{
+            }*/
+        }
+        
